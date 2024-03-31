@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Extra_Assignment_3.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(D:\Aayush_Joshi_Workspace\Aayush_Joshi\ObjectARX\Extra_Assignment_3\x64\Debug\Extra_Assignment_3.dll) does not match the Linker's OutputFile property value (D:\Aayush_Joshi_Workspace\Aayush_Joshi\ObjectARX\Extra_Assignment_3\x64\Debug\Extra_Assign_3.arx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1393,5): warning MSB8012: TargetExt(.dll) does not match the Linker's OutputFile property value (.arx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1394,5): warning MSB8012: TargetName(Extra_Assignment_3) does not match the Linker's OutputFile property value (Extra_Assign_3). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library D:\Aayush_Joshi_Workspace\Aayush_Joshi\ObjectARX\Extra_Assignment_3\x64\Debug\Extra_Assignment_3.lib and object D:\Aayush_Joshi_Workspace\Aayush_Joshi\ObjectARX\Extra_Assignment_3\x64\Debug\Extra_Assignment_3.exp
+rxapi.lib(libinit.obj) : warning LNK4099: PDB '' was not found with 'rxapi.lib(libinit.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Extra_Assignment_3.vcxproj -> D:\Aayush_Joshi_Workspace\Aayush_Joshi\ObjectARX\Extra_Assignment_3\x64\Debug\Extra_Assignment_3.dll
